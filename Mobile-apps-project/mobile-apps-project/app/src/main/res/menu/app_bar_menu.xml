@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/miToday"
+        android:title="Today"
+        app:showAsAction="never" />
+    <item android:id="@+id/miFiveDays"
+        android:title="Five days forecast"
+        app:showAsAction="never" />
+    <item android:id="@+id/miHistory"
+        android:title="History"
+        app:showAsAction="never" />
+</menu>
